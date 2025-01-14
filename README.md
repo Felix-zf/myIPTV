@@ -3,15 +3,15 @@
 
 ## iptv resources collection.DIY
 
-news channel
+News channel
 ```
 https://raw.githubusercontent.com/Felix-zf/myIPTV/main/m3u/News.m3u8
 ```
-global channnel
+Global channnel
 ```
-https://raw.githubusercontent.com/Felix-zf/myIPTV/main/m3u/globa.m3u8
+https://raw.githubusercontent.com/Felix-zf/myIPTV/main/m3u/Glob.m3u8
 ```
-iptv
+IPTV
 ```
 https://raw.githubusercontent.com/Felix-zf/myIPTV/main/m3u/IPTV.m3u8
 ```
