@@ -1,5 +1,5 @@
 #  IPTV
 
 ```
-https://raw.githubusercontent.com/Felix-zf/myIPTV/main/output/news.m3u8
+https://raw.githubusercontent.com/Felix-zf/myIPTV/main/m3u/news.m3u8
 ```
